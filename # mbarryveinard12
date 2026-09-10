@@ -29,10 +29,30 @@ To use a local copy of WebRender with servo, go to your servo build directory an
   * Add at the end of the file:
 
 ```
-[patch."https://github.com/servo/webrender"]
-"webrender" = { path = "<path>/webrender" }
-"webrender_api" = { path = "<path>/webrender_api" }
-```
+# Firefox — mbarryveinard12
+
+<p align="center">
+  <img src="https://www.mozilla.org/media/img/press/logo/firefox/browser/logo-lg.png" alt="Firefox" width="300">
+</p>
+
+<h2 align="center">mbarryveinard12</h2>
+
+<p align="center">
+  Fork personnel de Mozilla Firefox
+</p>
+
+---
+
+## À propos
+
+Ce dépôt est mon fork personnel de Mozilla Firefox.
+
+**Propriétaire :** [mbarryveinard12](https://github.com/mbarryveinard12)
+
+**Projet d'origine :** [Mozilla Firefox](https://github.com/mozilla-firefox/firefox)
+
+> Ce projet est basé sur le code source de Mozilla Firefox et conserve les licences et mentions applicables au projet d'origine.
+
 
 where `<path>` is the path to your local copy of WebRender.
 
