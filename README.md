@@ -1,24 +1,26 @@
-![Firefox Browser](https://cdn.simpleicons.org/firefoxbrowser)
-
+![Firefox Browser](./docs/readme/readme-banner.svg)
+![Firefox Browser](https://raw.githubusercontent.com/mozilla-firefox/firefox/main/docs/readme/readme-banner.svg)
 # Bienvenue sur mon projet Mon-Firefox
 
 Bonjour ! Je m'appelle Mamadou. Dans le cadre de ma formation, j'ai personnalisé ce dépôt pour m'approprier l'environnement de développement de Firefox et comprendre son fonctionnement.
 
 ---
 
-[Firefox](https://www.firefox.com/) est un navigateur web rapide, fiable et respectueux de la vie privée, développé par la [Mozilla Foundation](https://www.mozilla.org/).
+[Firefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
 
-## Contribuer
+## Contributing
 
-Pour apprendre comment contribuer à Firefox, consultez la documentation destinée aux contributeurs de Firefox.
+To learn how to contribute to Firefox read the [Firefox contributors' Quick Reference document](https://firefox-source-docs.mozilla.org/contributing/).
 
-Pour signaler un problème, utilisez [Bugzilla](https://bugzilla.mozilla.org/).
+We use [bugzilla.mozilla.org](https://bugzilla.mozilla.org/) as our issue tracker, please file bugs there.
 
-## Ressources
+## Resources
 
-- [Site officiel de Firefox](https://www.firefox.com/)
-- [Site officiel de Mozilla](https://www.mozilla.org/)
+- [Firefox](https://www.firefox.com/)
+- [Mozilla](https://www.mozilla.org/)
+- [Firefox Source Documentation](https://firefox-source-docs.mozilla.org/)
 - [Bugzilla](https://bugzilla.mozilla.org/)
+
 
 * [Firefox Source Docs](https://firefox-source-docs.mozilla.org/) is our primary documentation repository
 * Nightly development builds can be downloaded from [Firefox Nightly page](https://www.mozilla.org/firefox/channel/desktop/#nightly)
