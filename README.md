@@ -1,6 +1,6 @@
 ![Firefox Browser](./docs/readme/readme-banner.svg)
 
-# Bienvenue sur mon projet Mon-Firefox
+# <img src="https://wikimedia.org" width="45" height="45" valign="middle"> Bienvenue sur mon projet Mon-Firefox
 
 Bonjour ! Je m'appelle Mamadou. Dans le cadre de ma formation, j'ai personnalisé ce dépôt pour m'approprier l'environnement de développement de Firefox et comprendre son fonctionnement.
 
@@ -8,11 +8,12 @@ Bonjour ! Je m'appelle Mamadou. Dans le cadre de ma formation, j'ai personnalis�
 
 [Firefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
 
-### ### Contributing
+### Contributing
 
 To learn how to contribute to Firefox read the [Firefox contributors' Quick Reference document](https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html).
 
 We use [bugzilla.mozilla.org](https://bugzilla.mozilla.org/) as our issue tracker, please file bugs there.
+
 
 ### Resources
 
