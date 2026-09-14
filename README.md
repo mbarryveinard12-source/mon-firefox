@@ -2,7 +2,7 @@
 ![Firefox Browser](https://raw.githubusercontent.com/mozilla-firefox/firefox/main/docs/readme/readme-banner.svg)
 # Bienvenue sur mon projet Mon-Firefox
 
-Bonjour ! Je m'appelle Mamadou. Dans le cadre de ma formation, j'ai personnalisé ce dépôt pour m'approprier l'environnement de développement de Firefox et comprendre son fonctionnement.
+Bonjour ! Je m'appelle Mamadou. Dans le cadre de ma formation en cybersécurité, j'ai personnalisé ce dépôt pour m'approprier l'environnement de développement de Firefox et comprendre son fonctionnement.
 
 ---
 
